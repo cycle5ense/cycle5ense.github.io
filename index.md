@@ -8,9 +8,6 @@
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
 * [Team](#team)
 
 ## Overview
