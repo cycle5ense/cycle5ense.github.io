@@ -92,24 +92,6 @@ Milestone 1 was managed using [Cycle5ense GitHub Project Board M1](https://githu
 
 ![](images/project-board-1.png)
 
-### Milestone 2: Data model development
-
-The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the BowFolio application.
-
-Milestone 2 was managed using [BowFolio GitHub Project Board M2](https://github.com/bowfolios/bowfolios/projects/2):
-
-![](images/project-board-2.png)
-
-## Milestone 3: Final touches
-
-The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
-
-Milestone 3 was managed using [BowFolio GitHub Project Board M3](https://github.com/bowfolios/bowfolios/projects/3):
-
-![](images/project-board-3.png)
-
-As of the time of writing, this screenshot shows that there is an ongoing task (i.e. this writing).
-
 ## Team
 
 [Team Contract](https://docs.google.com/document/d/1DC_14kH7sXwnWtqByaQi7bHruMDQrfc-3NLZaMm2dn0/edit?tab=t.0#heading=h.zi0hnn54eohk)
