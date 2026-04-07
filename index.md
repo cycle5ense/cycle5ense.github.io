@@ -30,6 +30,9 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 "Bottles4College is a multi-award winning 501(c)(3) nonprofit organization that collects recyclable cans and bottles to help protect the planet and help fund college scholarships for kids in Hawaii." This page lists announcements and events from the Bottles4College organization.
 
+**Join us for our next event!**  
+Join us for our upcoming beach cleanup on April 20 at Ala Moana Beach Park from 9:00 AM to 12:00 PM. Help us protect our environment by collecting recyclable bottles and cans while supporting a cleaner Hawaii.
+
 ![](images/announcements-page.png)
 
 ### Map
