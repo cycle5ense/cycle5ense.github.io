@@ -109,6 +109,8 @@ As of the time of writing, this screenshot shows that there is an ongoing task (
 
 ## Team
 
+[Team Contract](https://docs.google.com/document/d/1DC_14kH7sXwnWtqByaQi7bHruMDQrfc-3NLZaMm2dn0/edit?tab=t.0#heading=h.zi0hnn54eohk)
+
 * [Au, Joshua](https://joshau124.github.io/)
 * [Herradura, Riley](https://rileyherra.github.io/)
 * [Lagazo, Julius](https://jslagazo.github.io/)
