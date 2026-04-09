@@ -1,5 +1,3 @@
-# Cycle5ense
-
 ## Table of contents
 
 * [Overview](#overview)
