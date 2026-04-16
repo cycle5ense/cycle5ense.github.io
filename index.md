@@ -63,7 +63,46 @@ Feedback we have received:
 
 This section provides information of interest to developers wishing to use this code base as a basis for their own development tasks.
 
+### Installation
+
+First, visit the [Cycle5ense github page](https://github.com/cycle5ense/cycle5ense), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Second, install dependencies with:
+
+```
+$ npm install
+```
+
+Third, setup the database. This appliaction uses prisma so create a .env file with the following information:
+```
+DATABASE_URL="postgresql://johndoe:randompassword@localhost:5432/mydb?schema=public"
+AUTH_SECRET=Xmtn263YTsiFyQufW7V5YmfYGa3pZMsc
+AUTH_URL=http://localhost:3000 # Base URL of your app
+```
+The DATABASE_URL should contain information to your own PostgreSQL database.
+
+Fourth, run the following commands one at a time:
+
+```
+$ npx prisma generate
+$ npx prisma migrate dev
+$ npm run seed
+```
+
+Once the database is setup, run:
+```
+$ npm run dev
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+### Application Design
+
+Cycle5ense is based upon [nextjs-application-template](https://github.com/ics-software-engineering/nextjs-application-template). Please use the documentation at those sites to better acquaint yourself with the basic application design in Cycle5ense.
+
 ## Development History
+
+Access our deployed appliaction [here](https://cycle5ense.vercel.app/).
 
 The development process for Cycle5ense conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
 
@@ -83,7 +122,11 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Milestone 1 was managed using [Cycle5ense GitHub Project Board M1](https://github.com/orgs/cycle5ense/projects/1):
 
-![](images/project-board-1.png)
+### Milestone 2: Database and Pin System
+
+The goal of Milestone 2 is to setup a database so that all pins are stored and loaded in the map. The pin form should provide the database with the information to be stored.
+
+Milestone 2 was managed using [Cycle5ense GitHub Project Board M2](https://github.com/orgs/cycle5ense/projects/3)
 
 ## Team
 
