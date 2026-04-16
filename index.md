@@ -28,34 +28,25 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ### Bottles4College Announcements
 
-"Bottles4College is a multi-award winning 501(c)(3) nonprofit organization that collects recyclable cans and bottles to help protect the planet and help fund college scholarships for kids in Hawaii." This page lists announcements and events from the Bottles4College organization.
-
-**Join us for our next event!**  
-Join us for our upcoming beach cleanup on April 20 at Ala Moana Beach Park from 9:00 AM to 12:00 PM. Help us protect our environment by collecting recyclable bottles and cans while supporting a cleaner Hawaii.
+The Bottles4College Announcments page provides information about events and announcments from an organization called Bottles4College.
 
 ![](images/announcements-page.png)
 
 ### Map
 
-The Map page will display the manoa campus with pins that indicate where recycle bins are located.
+The Map page uses an interactable map that showcases the manoa campus with pins that indicate where recycle bins are located.
 
 ![](images/map-page.png)
 
-### Find Nearest Bin
-
-The Find Nearest Bin page will direct users to the recycle bin closest to them.
-
-![](images/find-nearest-bin-page.png)
-
 ### Sorting Guide
 
-The Sorting Guide page displays information about what can and cannot be recycled.
+The Sorting Guide page displays information about what can and cannot be recycled based on actual regulations.
 
 ![](images/sorting-guide-page.png)
 
 ### Recycling Impact Statistics
 
-The Recycling Impact Statistics page will show real data about how many items are recycled per year, how much resources recycling has saved, etc.
+The Recycling Impact Statistics page shows real data about how many items are recycled per year, how much resources recycling has saved, etc.
 
 ![](images/statistics-page.png)
 
@@ -94,7 +85,7 @@ Milestone 1 was managed using [Cycle5ense GitHub Project Board M1](https://githu
 
 ## Team
 
-[Team Contract](https://docs.google.com/document/d/1DC_14kH7sXwnWtqByaQi7bHruMDQrfc-3NLZaMm2dn0/edit?tab=t.0#heading=h.zi0hnn54eohk)
+Our [Team Contract](https://docs.google.com/document/d/1DC_14kH7sXwnWtqByaQi7bHruMDQrfc-3NLZaMm2dn0/edit?tab=t.0#heading=h.zi0hnn54eohk)
 
 * [Au, Joshua](https://joshau124.github.io/)
 * [Herradura, Riley](https://rileyherra.github.io/)
