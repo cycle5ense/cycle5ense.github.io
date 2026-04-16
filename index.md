@@ -1,4 +1,6 @@
-# Cycle5ense
+---
+title: Cycle5ense
+---
 
 ## Table of contents
 
