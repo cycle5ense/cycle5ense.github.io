@@ -52,6 +52,18 @@ The Recycling Impact Statistics page shows real data about how many items are re
 
 ![](images/statistics-page.png)
 
+### Add Pin
+
+The Add Pin page allows the user to fill out a form to add a recycling bin location.
+
+![](images/add-pin-page.png)
+
+### Edit Pins
+
+The Edit Pins page allows the user to edit or remove exisitng pins' information.
+
+![](images/edit-pins-page.png)
+
 ## Community Feedback
 
 We are interested in your experience using the Cycle5ense application!  If you would like, please take a couple of minutes to fill out the [Cycle5ense Feedback Form]().
