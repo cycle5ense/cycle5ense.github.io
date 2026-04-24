@@ -18,7 +18,7 @@ Recycling has an emphasis in Hawai’i with the common saying “malama i ka ‘
 
 * [GitHub Organization](https://github.com/cycle5ense) of Cycle5ense conatining all its repositories
 
-[![Current Project Status](https://github.com/cycle5ense/cycle5ense/actions/workflows/ci.yml/badge.svg)](https://github.com/cycle5ense/cycle5ense/actions/workflows/ci.yml)
+Current Project Status: [![CI](https://github.com/cycle5ense/cycle5ense/actions/workflows/ci.yml/badge.svg)](https://github.com/cycle5ense/cycle5ense/actions/workflows/ci.yml)
 
 
 ## User Guide
