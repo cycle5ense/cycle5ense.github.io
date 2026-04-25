@@ -31,17 +31,59 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/landing-page.png)
 
+### Sign Up
+
+The Sign Up page allows new users to create an account. Users can register by providing their name, email address, and a password.
+
+![](images/sign-up-page.png)
+
+### Sign In
+
+The Sign In page allows existing users to log into their account using their registered email address and password.
+
+![](images/sign-in-page.png)
+
+### Sign Out
+
+Users can sign out of their account at any time by clicking the Sign Out option in the navigation bar. They will be redirected back to the landing page upon signing out.
+
+![](images/sign-out-page.png)
+
 ### Bottles4College Announcements
 
 The Bottles4College Announcments page provides information about events and announcments from an organization called Bottles4College.
 
 ![](images/announcements-page.png)
 
+### Add Announcements (Admin Only)
+
+This page contains a form where an admin can add an announcment that will be displayed on the Bottles4College Announcements page.
+
+![](images/add-announcements.png)
+
+### Edit Announcements (Admin Only)
+
+If an admin is logged in, they can edit existing announcements displayed on the Bottles4College Announcements page. The edit form is pre-filled with the current announcement details, allowing the admin to update or remove the announcement.
+
+![](images/edit-announcements.png)
+
 ### Map
 
 The Map page uses an interactable map that showcases the manoa campus with pins that indicate where recycle bins are located.
 
 ![](images/map-page.png)
+
+### Add Pin (Admin Only)
+
+If an admin is logged in, they can go to the map and click it. Afterwards, they will be redirected to the add pin page with pre-filled latitude and longitude data based on where they clicked on the map. The admin can then fill out the rest of the form to add a recycling bin location to the map.
+
+![](images/add-pin-page.png)
+
+### Edit Pins (Admin Only)
+
+If an admin is logged in, when they click a pin there will be the option to edit it. Clicking this link will redirect them to the edit pins page allowing the admin to edit or remove exisitng pin information.
+
+![](images/edit-pins-page.png)
 
 ### Sorting Guide
 
@@ -51,21 +93,21 @@ The Sorting Guide page displays information about what can and cannot be recycle
 
 ### Recycling Impact Statistics
 
-The Recycling Impact Statistics page shows real data about how many items are recycled per year, how much resources recycling has saved, etc.
+The Recycling Impact Statistics page shows data about how much has been recycled by users of the Cycle5ense website.
 
 ![](images/statistics-page.png)
 
-### Add Pin
+### Admin Page
 
-The Add Pin page allows the user to fill out a form to add a recycling bin location.
+The Admin page is accessible only to users with the admin role. It displays a table of all registered users, showing each user's email address, name, number of recycled items, and role. Admins can reset a user's password or remove a user from the system directly from this page.
 
-![](images/add-pin-page.png)
+![](images/admin-page.png)
 
-### Edit Pins
+### My Profile Page (Logged in Users)
 
-The Edit Pins page allows the user to edit or remove exisitng pins' information.
+The My Profile page is available to all logged in users. It displays a summary of the user's recycling activity, including the total number of items they have recycled. Users can also submit a form to log new recycling entries, recording the amount of items they have recycled.
 
-![](images/edit-pins-page.png)
+![](images/profile-page.png)
 
 ## Community Feedback
 
@@ -139,9 +181,15 @@ Milestone 1 was managed using [Cycle5ense GitHub Project Board M1](https://githu
 
 ### Milestone 2: Database and Pin System
 
-The goal of Milestone 2 is to setup a database so that all pins are stored and loaded in the map. The pin form should provide the database with the information to be stored.
+The goal of Milestone 2 was to setup a database storing information of pin locations and how much each user has recycled. All stored information was used/displayed in at least one of Cyle5ense's pages.
 
 Milestone 2 was managed using [Cycle5ense GitHub Project Board M2](https://github.com/orgs/cycle5ense/projects/3)
+
+### Milestone 3: Real Data and Feedback
+
+The goal of Milestone 3 is to add a significant amount of real data and share our website to many people on the UH Manoa campus to receive feedback.
+
+Milestone 3 was managed using [Cycle5ense GitHub Project Board M3](https://github.com/orgs/cycle5ense/projects/5/views/1)
 
 ## Team
 
