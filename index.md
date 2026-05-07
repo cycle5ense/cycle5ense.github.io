@@ -59,13 +59,13 @@ The Bottles4College Announcments page provides information about events and anno
 
 This page contains a form where an admin can add an announcment that will be displayed on the Bottles4College Announcements page.
 
-![](images/add-announcements.png)
+![](images/add-announcement.png)
 
 ### Edit Announcements (Admin Only - In Development)
 
 If an admin is logged in, they can edit existing announcements displayed on the Bottles4College Announcements page. The edit form is pre-filled with the current announcement details, allowing the admin to update or remove the announcement.
 
-![](images/edit-announcements.png)
+![](images/edit-announcement.png)
 
 ### Map
 
@@ -83,7 +83,7 @@ If an admin is logged in, they can go to the map and click it. Afterwards, they 
 
 If an admin is logged in, when they click a pin there will be the option to edit it. Clicking this link will redirect them to the edit pins page allowing the admin to edit or remove exisitng pin information.
 
-![](images/edit-pins-page.png)
+![](images/edit-pin-page.png)
 
 ### Sorting Guide
 
