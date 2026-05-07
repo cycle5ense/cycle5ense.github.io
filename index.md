@@ -61,7 +61,7 @@ This page contains a form where an admin can add an announcment that will be dis
 
 ![](images/add-announcement.png)
 
-### Edit Announcements (Admin Only - In Development)
+### Edit Announcements (Admin Only)
 
 If an admin is logged in, they can edit existing announcements displayed on the Bottles4College Announcements page. The edit form is pre-filled with the current announcement details, allowing the admin to update or remove the announcement.
 
