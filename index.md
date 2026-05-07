@@ -55,6 +55,12 @@ The Bottles4College Announcments page provides information about events and anno
 
 ![](images/announcements-page.png)
 
+### Admin Announcements (Admin Only)
+
+The Admin Announcments page provides the buttons that allow admins to edit existing and add new announcements.
+
+![](images/admin-announcement-page.png)
+
 ### Add Announcements (Admin Only)
 
 This page contains a form where an admin can add an announcment that will be displayed on the Bottles4College Announcements page.
