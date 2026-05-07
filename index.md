@@ -115,9 +115,9 @@ The community feedback we received was valuable in validating that the Cycle5ens
 
 Some feedback we have received:
 * Tayten Yau (UH Student): "It's very informative and easy to navigate, with a user-friendly UI that's easy on the eyes.  I don't know if it's just me, but the Sorting Guide page seems to be bugged in that there's a large gap between the header of the page and the actual information at the bottom. Based on my cursor icon, it seems like the page thinks there's supposed to be a map I can click and drag like on the Manoa Bin Map page, but it just shows up as empty."
-* Zachary Pilarca (UH Student): "This is actually really useful, there are times when I drink my coke and dont know where the nearest recycle location is. Very good for the environment."
+* Zachary Pilarca (UH ECE Student): "This is actually really useful, there are times when I drink my coke and dont know where the nearest recycle location is. Very good for the environment."
 * Casey Shimazu (Resident of Hawaii): "I like the interactive elements, the color change on hover, the spinning home button, and the carousel on the sorting guide page. I think the only thing that throws me off is the bottles4college layout doesn't span the page/reorient, but i think thats me being nitpicky. I like the colors and fonts"
-* John Josan Valdriz (UH Student): "Very smooth and lots of helpful information. love the unique concept of this website highlighting specific locations of recycling bins. also like how well detailed the locations are of each recycling bin"
+* John Josan Valdriz (UH ECE Student): "Very smooth and lots of helpful information. love the unique concept of this website highlighting specific locations of recycling bins. also like how well detailed the locations are of each recycling bin"
 * Hojo Pou (Resident of Hawaii): "The CycleSense map website is pretty cool. I like it because it’s simple and easy to use, and the interactive map makes everything clearer. It feels clean and straightforward, like something you can just open and understand right away."
 
 We are interested in your experience using the Cycle5ense application!  If you would like, please take a couple of minutes to fill out the [Cycle5ense Feedback Form](https://forms.gle/3B2o9d1nc76NET1U9).
