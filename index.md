@@ -203,6 +203,12 @@ The goal of Milestone 3 was to add a significant amount of real data and share o
 
 Milestone 3 was managed using [Cycle5ense GitHub Project Board M3](https://github.com/orgs/cycle5ense/projects/5/views/1)
 
+## Effort Estimation Report
+
+Our team tracked estimated effort along with coding and non-coding effort throughout the development process.
+
+* [Cycle5ense Effort Estimation Spreadsheet](https://docs.google.com/spreadsheets/d/1H9tnLUpDFQ2dWyP3Ygwt5cf-d37vL6r8BgdrRqcLcwg/edit?usp=sharing)
+
 ## Team
 
 Our [Team Contract](https://docs.google.com/document/d/1DC_14kH7sXwnWtqByaQi7bHruMDQrfc-3NLZaMm2dn0/edit?tab=t.0#heading=h.zi0hnn54eohk)
