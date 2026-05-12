@@ -10,6 +10,7 @@ title: Cycle5ense
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
+* [Effort Estimation Report](#effort-estimation-report)
 * [Team](#team)
 
 ## Overview
@@ -205,9 +206,7 @@ Milestone 3 was managed using [Cycle5ense GitHub Project Board M3](https://githu
 
 ## Effort Estimation Report
 
-Our team tracked estimated effort along with coding and non-coding effort throughout the development process.
-
-* [Cycle5ense Effort Estimation Spreadsheet](https://docs.google.com/spreadsheets/d/1H9tnLUpDFQ2dWyP3Ygwt5cf-d37vL6r8BgdrRqcLcwg/edit?usp=sharing)
+Our team tracked estimated effort along with coding and non-coding effort throughout the development process: [Cycle5ense Effort Estimation Spreadsheet](https://docs.google.com/spreadsheets/d/1H9tnLUpDFQ2dWyP3Ygwt5cf-d37vL6r8BgdrRqcLcwg/edit?usp=sharing)
 
 ## Team
 
